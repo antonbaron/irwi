@@ -15,9 +15,9 @@ Gem::Specification.new do |s|
   # Gem dependencies
   s.add_dependency "diff-lcs", ">= 1.1.2"
 
-  s.add_dependency "activerecord", ">= 3.0.0"
-  s.add_dependency "activesupport", ">= 3.0.0"
-  s.add_dependency "actionpack", ">= 3.0.0"
+  s.add_dependency "activerecord", ">= 3.0"
+  s.add_dependency "activesupport", ">= 3.0"
+  s.add_dependency "actionpack", ">= 3.0"
 
   # Development dependencies
   s.add_development_dependency "rspec", ">=2.0"
